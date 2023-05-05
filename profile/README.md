@@ -27,3 +27,9 @@ Work is underway to create the tools software authors and consumers need to
 handle VEX metadata. The current flagship project is
 [`vexctl`](https://github.com/openvex/vexctl), a CLI to create, merge and
 attest VEX documents.
+
+The project has a growing ecosystem with known implementations in:
+
+* Go (original): https://github.com/openvex/go-vex
+* .NET: [NuGet](https://www.nuget.org/packages/OpenVEX/) [GitHub](https://github.com/JamieMagee/openvex.net)
+* Rust: https://docs.rs/openvex/latest/openvex/
